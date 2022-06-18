@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Sokol"
+  given-names: "Kacper"
+  orcid: "https://orcid.org/0000-0002-9869-5896"
+title: "Ethical and Fairness Implications of Model Multiplicity"
+version: 0.1
+doi: 10.48550/arXiv.2203.07139
+date-released: 2022-07-01
+url: "https://github.com/So-Cool/IndividualFairness"
+preferred-citation:
+  type: article
+  title: "Ethical and Fairness Implications of Model Multiplicity"
+  authors:
+  - family-names: "Sokol"
+    given-names: "Kacper"
+    orcid: "https://orcid.org/0000-0002-9869-5896"
+  - family-names: "Kull"
+    given-names: "Meelis"
+    orcid: "https://orcid.org/0000-0001-9257-595X"
+  - family-names: "Chan"
+    given-names: "Jeffrey"
+    orcid: "https://orcid.org/0000-0002-7865-072X"
+  - family-names: "Salim"
+    given-names: "Flora Dilys"
+    orcid: "https://orcid.org/0000-0002-1237-1664"
+  journal: "arXiv preprint arXiv:2203.07139"
+  year: 2022

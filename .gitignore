@@ -1,0 +1,14 @@
+# MacOS
+*.DS_Store
+
+# Visual Studio Code
+.vscode
+
+# Python
+*__pycache__
+
+# Jupyter Book
+*.ipynb_checkpoints
+figure
+notebooks/run_cache
+notebooks/download.py
