@@ -9,6 +9,6 @@
 
 # Jupyter Book
 *.ipynb_checkpoints
-figure
+notebooks/figures
 notebooks/run_cache
 notebooks/download.py

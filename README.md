@@ -1,9 +1,9 @@
 [![Licence](https://img.shields.io/github/license/So-Cool/IndividualFairness)](LICENCE)
 [![Python](https://img.shields.io/badge/python-v3.8.2-blue)](https://github.com/So-Cool/IndividualFairness)
 
-# Ethical and Fairness Implications of Model Multiplicity #
+# Fairness and Ethics Under Model Multiplicity #
 
-This repository holds Jupyter Notebooks that can be used to reproduce experimental results and plots included in the *[Ethical and Fairness Implications of Model Multiplicity][arxiv]* paper.
+This repository holds Jupyter Notebooks that can be used to reproduce experimental results and plots included in the *[Fairness and Ethics Under Model Multiplicity][arxiv]* paper.
 
 ## Code ##
 
@@ -27,7 +27,7 @@ The following notebooks are provided:
 
 [![Read Paper](https://img.shields.io/badge/read-paper-green.svg?logo=arxiv)][arxiv]
 
-**Ethical and Fairness Implications of Model Multiplicity**
+**Fairness and Ethics Under Model Multiplicity**
 
 > While predictive models are a purely technological feat, they may operate in a social context in which benign engineering choices entail unexpected real-life consequences.
   Fairness -- pertaining both to individuals and groups -- is one of such considerations; it surfaces when data capture protected characteristics of people who may be discriminated upon these attributes.
