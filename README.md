@@ -1,9 +1,9 @@
 [![Licence](https://img.shields.io/github/license/So-Cool/IndividualFairness)](LICENCE)
 [![Python](https://img.shields.io/badge/python-v3.8.2-blue)](https://github.com/So-Cool/IndividualFairness)
 
-# Fairness and Ethics Under Model Multiplicity #
+# Fairness and Ethics Under Model Multiplicity in Machine Learning #
 
-This repository holds Jupyter Notebooks that can be used to reproduce experimental results and plots included in the *[Fairness and Ethics Under Model Multiplicity][arxiv]* paper.
+This repository holds Jupyter Notebooks that can be used to reproduce experimental results and plots included in the *[Fairness and Ethics Under Model Multiplicity in Machine Learning][arxiv]* paper.
 
 ## Code ##
 
@@ -27,15 +27,55 @@ The following notebooks are provided:
 
 [![Read Paper](https://img.shields.io/badge/read-paper-green.svg?logo=arxiv)][arxiv]
 
-**Fairness and Ethics Under Model Multiplicity**
+**Fairness and Ethics Under Model Multiplicity in Machine Learning**
 
-> While predictive models are a purely technological feat, they may operate in a social context in which benign engineering choices entail unexpected real-life consequences.
-  Fairness -- pertaining both to individuals and groups -- is one of such considerations; it surfaces when data capture protected characteristics of people who may be discriminated upon these attributes.
-  This notion has predominantly been studied for a fixed predictive model, sometimes under different classification thresholds, striving to identify and eradicate its undesirable behaviour.
-  Here we backtrack on this assumption and explore a novel definition of fairness where individuals can be harmed when one predictor is chosen ad hoc from a group of equally well performing models, i.e., in view of model multiplicity.
-  Since a person may be classified differently across models that are otherwise considered equivalent, this individual could argue for a model with a more favourable outcome, possibly causing others to be adversely affected.
-  We introduce this scenario with a two-dimensional example based on linear classification; then investigate its analytical properties in a broader context; and finally present experimental results on data sets popular in fairness studies.
-  Our findings suggest that such unfairness can be found in real-life situations and may be difficult to mitigate with technical measures alone, as doing so degrades certain metrics of predictive performance.
+> While data-driven predictive models are a strictly technological construct,
+  they may operate within a social context in which benign engineering choices
+  entail implicit, indirect and unexpected real-life consequences.
+  Fairness of such systems -- pertaining both to individuals and groups -- is
+  one relevant consideration in this space; it surfaces when data capture
+  *protected* characteristics upon which people may be discriminated.
+  To date, this notion has predominantly been studied for a *fixed* predictive
+  model, often under different classification thresholds, striving to identify
+  and eradicate undesirable, and possibly unlawful, aspects of its operation.
+  Here, we backtrack on this assumption to propose and explore a novel
+  definition of fairness where individuals can be harmed when one predictor is
+  chosen ad hoc from a group of equally-well performing models, i.e., in view of
+  utility-based *model multiplicity*.
+  Since a person may be classified differently across models that are otherwise
+  considered equivalent, this individual could argue for a predictor with the
+  most favourable outcome, employing which may have adverse effects on others.
+  We introduce this scenario with a two-dimensional example based on linear
+  classification; then, we investigate its analytical properties in a broader
+  context; and, finally, we present experimental results on data sets that are
+  popular in fairness studies.
+  Our findings suggest that such unfairness can be found in real-life situations
+  and may be difficult to mitigate by technical means alone, as doing so
+  degrades certain metrics of predictive performance.
+
+*Keywords:* individual fairness, ethics, model view, model multiplicity,
+Rashomon effect, machine learning, artificial intelligence,
+automated decision-making.
+
+*Highlights:*
+
+- Utility-based individual fairness guarantees that a person receives the same
+  prediction across a collection of models with identical or comparable
+  predictive performance.
+- When at least one prediction output by multiple equivalent models for a single
+  individual is perceived as favourable, the person might argue for the
+  precedence of this outcome.
+- This notion of fairness is consistent with the Blackstone's ratio and
+  "presumption of innocence" -- lack of convincing evidence ought to warrant the
+  most favourable treatment.
+- Granting each person the most favourable decision afforded by a collection of
+  equivalent models may degrade the overall predictive performance on the
+  underlying task, especially when the employed family of models is highly
+  expressive.
+- A possible solution is to limit the number of admissible predictors by
+  imposing appropriate modelling restrictions, which are consistent with the
+  social context and the natural process governing the generation of the
+  underlying data.
 
 [arxiv]: https://arxiv.org/abs/2203.07139
 [openml]: https://docs.openml.org/Python-guide/
