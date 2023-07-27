@@ -1,6 +1,3 @@
-[![Licence](https://img.shields.io/github/license/So-Cool/IndividualFairness)](LICENCE)
-[![Python](https://img.shields.io/badge/python-v3.8.2-blue)](https://github.com/So-Cool/IndividualFairness)
-
 # Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity #
 
 This repository holds Jupyter Notebooks that can be used to reproduce experimental results and plots included in the *[Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity][arxiv]* paper.
@@ -24,8 +21,6 @@ The following notebooks are provided:
 > Note that downloading experiments from OpenML may take a long time given that they are made available as a large number of relatively small files (roughly 10GB in total).
 
 ## Paper ##
-
-[![Read Paper](https://img.shields.io/badge/read-paper-green.svg?logo=arxiv)][arxiv]
 
 **Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity**
 
@@ -77,5 +72,5 @@ The following notebooks are provided:
   social context and the natural process governing the generation of the
   underlying data.
 
-[arxiv]: https://arxiv.org/abs/2203.07139
+[arxiv]: #
 [openml]: https://docs.openml.org/Python-guide/
