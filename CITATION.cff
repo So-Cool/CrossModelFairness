@@ -4,14 +4,14 @@ authors:
 - family-names: "Sokol"
   given-names: "Kacper"
   orcid: "https://orcid.org/0000-0002-9869-5896"
-title: "Fairness and Ethics Under Model Multiplicity in Machine Learning"
+title: "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity"
 version: 0.1
 doi: 10.48550/arXiv.2203.07139
 date-released: 2022-07-01
 url: "https://github.com/So-Cool/IndividualFairness"
 preferred-citation:
   type: article
-  title: "Fairness and Ethics Under Model Multiplicity in Machine Learning"
+  title: "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity"
   authors:
   - family-names: "Sokol"
     given-names: "Kacper"

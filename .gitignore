@@ -9,6 +9,7 @@
 
 # Jupyter Book
 *.ipynb_checkpoints
+notebooks/ambiguity
 notebooks/figures
 notebooks/run_cache
 notebooks/download.py
