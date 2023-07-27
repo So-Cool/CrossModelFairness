@@ -8,7 +8,7 @@ title: "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model
 version: 0.1
 doi: 10.48550/arXiv.2203.07139
 date-released: 2022-07-01
-url: "https://github.com/So-Cool/IndividualFairness"
+url: "https://github.com/So-Cool/CrossModelFairness"
 preferred-citation:
   type: article
   title: "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity"

@@ -1,5 +1,5 @@
-[![Licence](https://img.shields.io/github/license/So-Cool/IndividualFairness)](LICENCE)
-[![Python](https://img.shields.io/badge/python-v3.8.2-blue)](https://github.com/So-Cool/IndividualFairness)
+[![Licence](https://img.shields.io/github/license/So-Cool/CrossModelFairness)](LICENCE)
+[![Python](https://img.shields.io/badge/python-v3.8.2-blue)](https://github.com/So-Cool/CrossModelFairness)
 
 # Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity #
 
