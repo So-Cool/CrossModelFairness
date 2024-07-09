@@ -6,8 +6,8 @@ authors:
   orcid: "https://orcid.org/0000-0002-9869-5896"
 title: "Cross-model Fairness: Empirical Study of Fairness and Ethics Under Model Multiplicity"
 version: 0.1
-doi: 10.48550/arXiv.2203.07139
-date-released: 2022-07-01
+doi: 10.1145/3677173
+date-released: 2024-07-01
 url: "https://github.com/So-Cool/CrossModelFairness"
 preferred-citation:
   type: article
@@ -23,7 +23,7 @@ preferred-citation:
     given-names: "Jeffrey"
     orcid: "https://orcid.org/0000-0002-7865-072X"
   - family-names: "Salim"
-    given-names: "Flora Dilys"
+    given-names: "Flora"
     orcid: "https://orcid.org/0000-0002-1237-1664"
-  journal: "arXiv preprint arXiv:2203.07139"
-  year: 2022
+  journal: "ACM Journal on Responsible Computing"
+  year: 2024
